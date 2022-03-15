@@ -11,6 +11,8 @@
 C# was my first love in IT 😀🥰 after that I learned Python and now Java.💪
 <br>
 I'm not expert yet, but I'm impoving day by day.
+<br>
+"If there is no wind, row"
 
 ## Certification/Badges:
 <div style="display: inline_block" align="center">
