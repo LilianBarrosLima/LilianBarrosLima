@@ -1,9 +1,9 @@
 
 ## Hi guys 👋 I'm Lilian Lima!
 
-- 💻 Intern - Full Stack at IBM.
-- 👨‍🎓 Student - Systems Analysis and Development.
-- 🌱 I’m currently learning about Java Spring.
+- 💻 Developer Full Stack at IBM.
+- 👨‍🎓 Systems Analysis and Development.
+- 🌱 I’m currently working and learning Java Spring Boot and Quarkus.
 - 😄 Pronouns: She/her
 
 ## Some facts about me:
